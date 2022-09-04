@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99192fff-b438-41dd-86d7-418b87750b01" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/new_py/homework3/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_py/homework3/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_py/homework3/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_py/homework3/4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_py/homework3/5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_py/homework3/6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_py/homework3/7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_py/homework4/hw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_py/homework5/1/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_py/homework5/2/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_py/homework6/homework.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_py/homework6/new.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -38,20 +37,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GitHub\new__\new_py\homework6" />
+      <recent name="C:\GitHub\new__\new_py\homework5\1" />
       <recent name="C:\GitHub\new__\new_py" />
       <recent name="C:\GitHub\new__\_" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.5">
-    <configuration name="3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.2">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="new__" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,11 +61,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/new_py/homework3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/new_py/homework5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/new_py/homework3/3.py" />
+      <option name="SCRIPT_NAME" value="C:\GitHub\new__\new_py\homework5\1\1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,7 +74,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="new__" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,11 +82,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/new_py/homework3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/new_py/homework5/2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/new_py/homework3/4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/new_py/homework5/2/2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="hw (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="new__" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,11 +124,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/new_py/homework3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/new_py/homework4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/new_py/homework3/6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/new_py/homework4/hw.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="hw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="new__" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,11 +145,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/new_py/homework3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/new_py/homework4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/new_py/homework3/7.py" />
+      <option name="SCRIPT_NAME" value="C:\GitHub\new__\new_py\homework4\hw.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2" />
+        <item itemvalue="Python.1" />
+        <item itemvalue="Python.hw (1)" />
+        <item itemvalue="Python.hw" />
         <item itemvalue="Python.5" />
-        <item itemvalue="Python.7" />
-        <item itemvalue="Python.6" />
-        <item itemvalue="Python.4" />
-        <item itemvalue="Python.3" />
       </list>
     </recent_temporary>
   </component>
@@ -176,6 +178,9 @@
       <updated>1660665439018</updated>
     </task>
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
